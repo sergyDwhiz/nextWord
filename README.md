@@ -1,2 +1,2 @@
 # nextWord
-Predicts the next letter in a sequence via a RNN
+Predicts the next word in a sequence via a RNN
